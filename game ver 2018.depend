@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543257253 source:c:\documents and settings\nunez aldin\meus documentos\downloads\codblocks\projetos\game ver 2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
